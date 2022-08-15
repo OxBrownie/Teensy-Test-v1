@@ -1,0 +1,35 @@
+{
+    "background.enabled": true,
+    "background.loop": true,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        // "margin-left":"10%",
+        "background-position": "left",
+        "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.4
+    },
+  "background.customImages": [
+        // // Bloodborne
+        // "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/6834476.jpg",
+        // // Ajin
+        "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/7349633.png",
+        // Tanya
+        "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/1476042.jpg",
+        // Beast Titan
+        "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/82347023.jpeg",
+        // Beserk
+        // "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/3896990.png",
+        // // Albedo
+        "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/2145366.png",
+        // // // Spidey
+        // "/Users/macbook/Desktop/ /Pictures/Wallpapers/VSBackgrounds/1107271.jpg"
+  ]
+}
